@@ -1,0 +1,7 @@
+arrow==0.12.1
+grift==0.6.0
+humanize==0.5.1
+mediacloud==2.45.0
+pytz==2017.3
+requests==2.18.4
+tweepy==3.5.0
