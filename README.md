@@ -2,7 +2,7 @@ Seen It News
 ============
 
 Inspired by the wonderful [@NYT_first_said](https://twitter.com/NYT_first_said), this project uses
-the MIT Center for Civic Media' [mediacloud project](https://mediacloud.org/) to find the earliest
+the MIT Center for Civic Media's [Media Cloud project](https://mediacloud.org/) to find the earliest
 mention of a word in major English language newspapers. It uses this to issue a smugly superior
 tweet.
 
@@ -19,7 +19,7 @@ $ pip install -r requirements.txt
 
 There should be a file called `.config.json` configuring the project. The useful
 [grift](https://github.com/kensho-technologies/grift) library will complain intelligently about
-each setting that you need to fill in. At the very least, you will need an API key for Mediacloud,
+each setting that you need to fill in. At the very least, you will need an API key for Media Cloud,
 which you get by [signing up for a free account](https://tools.mediacloud.org/#/user/signup), and 
 credentials for twitter, which 
 [digital ocean's tutorial](https://www.digitalocean.com/community/tutorials/how-to-create-a-twitter-app)
@@ -63,5 +63,5 @@ You can also get all historical uses as a generator of tuples (which makes it ea
 That still does not seem very useful
 ------------------------------------
 
-Ouch! But fair! See Mediacloud's ["Press and Publications"](https://mediacloud.org/publications/) page
+Ouch! But fair! See Media Cloud's ["Press and Publications"](https://mediacloud.org/publications/) page
 for more academic uses of the project.
