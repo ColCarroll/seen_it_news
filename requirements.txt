@@ -1,4 +1,4 @@
-arrow==0.12.1
+arrow==0.15.1
 grift==0.6.0
 humanize==0.5.1
 mediacloud==2.45.0
